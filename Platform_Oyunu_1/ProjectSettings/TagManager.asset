@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kilicVurusBox
+  - Spider
+  - Bat
+  - Boa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - No Collision
+  - Water
+  - UI
+  - 
+  - 
+  - Zemin
+  - PlayerLayer
+  - Coin
+  - EnemyLayer
+  - KilicLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgrounds
+    uniqueID: 2797320523
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ZeminObjeler
+    uniqueID: 2358054605
+    locked: 0
+  - name: Zemin
+    uniqueID: 1158187141
+    locked: 0
+  - name: Objeler
+    uniqueID: 3143372641
+    locked: 0
+  - name: Efektler
+    uniqueID: 624776413
+    locked: 0
+  - name: Player
+    uniqueID: 2850452939
+    locked: 0
